@@ -1,6 +1,5 @@
 package br.com.amy.exerc8;
 
-import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.UUID;
 
